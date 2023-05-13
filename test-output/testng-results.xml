@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-13T17:03:15 IST" name="Suite" finished-at="2023-05-13T17:03:45 IST" duration-ms="30306">
+    <groups>
+    </groups>
+    <test started-at="2023-05-13T17:03:15 IST" name="Test" finished-at="2023-05-13T17:03:45 IST" duration-ms="30306">
+      <class name="Object_Package.MainPage">
+        <test-method is-config="true" signature="Open()[pri:0, instance:Object_Package.MainPage@292b08d6]" started-at="2023-05-13T17:03:15 IST" name="Open" finished-at="2023-05-13T17:03:21 IST" duration-ms="6091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open -->
+        <test-method signature="SearchItem()[pri:0, instance:Object_Package.MainPage@292b08d6]" started-at="2023-05-13T17:03:21 IST" name="SearchItem" finished-at="2023-05-13T17:03:30 IST" duration-ms="8896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchItem -->
+        <test-method signature="AddCart()[pri:1, instance:Object_Package.MainPage@292b08d6]" started-at="2023-05-13T17:03:30 IST" name="AddCart" finished-at="2023-05-13T17:03:36 IST" duration-ms="6266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCart -->
+        <test-method signature="IncreaseQuantity()[pri:2, instance:Object_Package.MainPage@292b08d6]" started-at="2023-05-13T17:03:36 IST" name="IncreaseQuantity" finished-at="2023-05-13T17:03:42 IST" duration-ms="6078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IncreaseQuantity -->
+        <test-method signature="NewAccount()[pri:3, instance:Object_Package.MainPage@292b08d6]" started-at="2023-05-13T17:03:42 IST" name="NewAccount" finished-at="2023-05-13T17:03:44 IST" duration-ms="2157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewAccount -->
+        <test-method is-config="true" signature="Stop()[pri:0, instance:Object_Package.MainPage@292b08d6]" started-at="2023-05-13T17:03:44 IST" name="Stop" finished-at="2023-05-13T17:03:45 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stop -->
+      </class> <!-- Object_Package.MainPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
